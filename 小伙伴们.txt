@@ -1,1 +1,9 @@
 小伙伴们，给位大佬们，今天（2018年3月22日15:19:59）创建了这个代码共享仓库，欢迎大家存存存！
+1.都clone develop分支上的地址
+2.cd到项目同级目录。也可以直接在项目目录中进行git bash here
+3.git checkout develop 切换到develop分支 好像默认的就是这个分支。如果clone的是master需要切    换到develop分支
+3.修改项目 
+4.git add *
+5.git commit -m "...."
+6.git merge --no-ff develop 合并到develop分支上
+7.git push origin develop 
